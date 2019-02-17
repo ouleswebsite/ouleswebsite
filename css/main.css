@@ -6,10 +6,10 @@ body {
 h1 {
     color: black;
     margin-left: 5px;
-    font-size: 4vw;
+    font-size: 4em;
 }
 p {
-    font-size: 1vw;
+    font-size: 1em;
 }
 owl {
     width: 300%;
