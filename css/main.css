@@ -1,8 +1,8 @@
 html {
-    background: url(ouleswebsite/images/rainbow_gradient_vertical.jpg) repeat center center fixed;
+    background: url(../images/rainbow_gradient_vertical.jpg) repeat center center fixed;
 }
 body {
-    background-image: url(images/rainbow_gradient_vertical.jpg);
+    background-image: url('../images/rainbow_gradient_vertical.jpg');
     background-repeat: repeat;
     font-family:"Comic Sans MS", cursive, sans-serif;
     margin: 20px auto;
