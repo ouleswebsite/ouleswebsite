@@ -10,5 +10,7 @@ p {
     font-size: 1vw;
 }
 owl {
+    float: right;
+    margin-right:2%;
     width: 30%;
 }
