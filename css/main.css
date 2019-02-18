@@ -5,6 +5,8 @@ body {
 h1 {
     font-size: 7vmin;
     font-weight: 500;
+    font-style: italic;
+    margin-left: -5px;
     margin-top: 10vh;
     margin-bottom: 0;
 }
