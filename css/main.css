@@ -13,10 +13,11 @@ h1 {
 p {
     font-size: 1vw;
 }
-#overlay {
+.overlay {
+    position: absolute;
     width: 100%;
-    height:100%;
-    bottom: 0;
+    max-height: 60vh;
+    bottom: 0vh;
 }
 .owl {
     float: right;
