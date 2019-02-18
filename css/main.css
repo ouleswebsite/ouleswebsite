@@ -13,7 +13,7 @@ h1 {
 p {
     font-size: 1vw;
 }
-owl {
+.owl {
     float: right;
     padding-right: 3vh;
     padding-top: 20vh;
@@ -22,7 +22,7 @@ owl {
     width: 50vw;
     max-width: 50vw;
 }
-owl img {
+.owl img {
     height: 50%;
     max-width: 100%
     float: right;
