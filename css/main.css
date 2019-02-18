@@ -3,8 +3,10 @@ body {
     margin: 20px auto;
 }
 h1 {
-    margin-left: 5%;
-    font-size: 5vw;
+    font-size: 7vmin;
+    font-weight: 500;
+    margin-top: 10vh;
+    margin-bottom: 0;
 }
 p {
     font-size: 1vw;
